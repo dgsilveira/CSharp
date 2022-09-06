@@ -1,4 +1,4 @@
-﻿namespace xadrez_console.tabuleiro
+﻿namespace tabuleiro
 {
     internal class Posicao
     {
@@ -15,7 +15,7 @@
         public override string ToString()
         {
             return linha
-                + ","
+                + ", "
                 + coluna;
         }
     }
