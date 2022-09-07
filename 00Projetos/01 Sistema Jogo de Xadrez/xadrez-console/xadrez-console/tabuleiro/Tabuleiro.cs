@@ -67,5 +67,6 @@
                 throw new TabuleiroException("Posição inválida!");
             }
         }
+
     }
 }
